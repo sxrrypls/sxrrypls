@@ -1,6 +1,6 @@
 ![Header](https://github.com/sxrrypls/sxrrypls/blob/main/assets/413726.png?raw=true)
 
-About me
+## I'm beginner programmer
 
 Latest Youtube Videos
 
