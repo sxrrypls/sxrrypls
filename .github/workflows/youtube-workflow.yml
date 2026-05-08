@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCtvnB6R__6vdyjUEbDgAWHw"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZTpVSx-Nu5VMBxXmS6RO4w"
