@@ -23,6 +23,4 @@ Latest Youtube Videos
   </a>
 </p>
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux)
-
 Follow Me
