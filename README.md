@@ -16,6 +16,6 @@
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=7289da)](https://discord.com/users/912993416588193813)
 [![Spotify](https://img.shields.io/badge/-Spotify-090909?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/31jynxxtricwx3dnscuujgewlzmq?si=9083e9b13df74945)
 
-### Latest Youtube Videos
+### Latest Youtube Videos:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
