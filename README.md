@@ -5,11 +5,24 @@
 Latest Youtube Videos
 
 ### :sparkles: I have expirience with:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/ArchLinux.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="50" alt="Arch">](https://archlinux.org) &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="40" alt="Neovim">](https://neovim.io) &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="50" alt="Git">](https://git-scm.com/) &nbsp; &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="50" alt="Python">](https://python.org)
+<p align="center">
+  <a href="https://archlinux.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/ArchLinux.png" width="50" alt="Arch">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://neovim.io">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="40" alt="Neovim">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://git-scm.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" alt="Git">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://python.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="50" alt="Python">
+  </a>
+</p>
 
-
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux)
 
 Follow Me
