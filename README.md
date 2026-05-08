@@ -2,18 +2,20 @@
 
 ## I'm beginner programmer
 
-Latest Youtube Videos
-
-### :sparkles: I have expirience with:
-<p align="center">
-  <a href="https://archlinux.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/ArchLinux.png" width="50" alt="Arch"></a>
-  &nbsp; &nbsp;
-  <a href="https://neovim.io"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="40" alt="Neovim"></a>
-  &nbsp; &nbsp;
-  <a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" alt="Git"></a>
-  &nbsp; &nbsp;
-  <a href="https://python.org"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="50" alt="Python"></a>
-</p>
+### Languages and Tools:
+![Arch linux](https://img.shields.io/badge/-Arch_Linux-090909?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Neovim](https://img.shields.io/badge/-Neovim-090909?style=for-the-badge&logo=neovim&logoColor=57A143)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
 
 
-Follow Me
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sxrryyy)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCZTpVSx-Nu5VMBxXmS6RO4w)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=7289da)](https://discord.com/users/912993416588193813)
+[![Spotify](https://img.shields.io/badge/-Spotify-090909?style=for-the-badge&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/31jynxxtricwx3dnscuujgewlzmq?si=9083e9b13df74945)
+
+### Latest Youtube Videos
+<!-- Youtube:START -->
+<!-- Youtube:END -->
