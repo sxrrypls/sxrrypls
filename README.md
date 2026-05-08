@@ -19,3 +19,5 @@
 ### Latest Youtube Videos:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sxrrypls&hide=contribs,prs&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
