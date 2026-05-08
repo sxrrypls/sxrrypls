@@ -19,5 +19,3 @@
 ### Latest Youtube Videos:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxrrypls)](https://github.com/anuraghazra/github-readme-stats)
