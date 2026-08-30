@@ -3,7 +3,7 @@
 ## I'm beginner programmer
 
 ### Languages and Tools:
-![Arch linux](https://img.shields.io/badge/-Arch_Linux-090909?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Nixos](https://img.shields.io/badge/-Nixos-090909?style=for-the-badge&logo=nixos&logoColor=1793D1)
 ![Neovim](https://img.shields.io/badge/-Neovim-090909?style=for-the-badge&logo=neovim&logoColor=57A143)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
